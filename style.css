@@ -1,0 +1,31 @@
+
+ h1 {color: #D7AAB6
+ } 
+ h2 { color: salmon;}
+ h3 {color: darkblue;}
+ h4{color: white;}
+  body {background-image: url("OSky.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family:fantasy;
+ font-weight: 900;
+ font-size: large;
+ padding-left: 100px;}
+ 
+ a:visited{color: rgb(224, 67, 94)} 
+ a:link{color: blueviolet}
+ .youtube{opacity:1;
+     
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ 
+ 
+  
+ 
+
+     
+ 
+  
+ 
